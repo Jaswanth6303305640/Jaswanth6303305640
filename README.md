@@ -26,7 +26,6 @@
 
 
 
-## contact : telegram -> https://t.me/Coding_Gurl    or  grp : https://t.me/Coders_Community_By_Kb
 
 
 Objective
